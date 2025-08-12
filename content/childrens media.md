@@ -1,5 +1,7 @@
 ---
-share: true
+share: "true"
+tags:
+  - curation
 ---
 
 # General
