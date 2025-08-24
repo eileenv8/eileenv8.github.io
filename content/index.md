@@ -1,13 +1,10 @@
 ---
-title: Welcome to My Digital Garden
+title: Welcome to Vault EMVJ
 ---
 
-# Welcome to My Digital Garden
+# My Digital Garden
 
-This is my personal collection of notes and thoughts.
+This is a landing page for Eileen's notes, essays, and other tidbits from her personal notebook. 
 
-## Recent Notes
+I love the ethos of a 'digital garden' -- an organically-grown network of one's thoughts and ideas which amasses connections over time through tagging, categorizing, and the like. I hope you enjoy exploring it, and please let me know your thoughts either by emailing me at eileen@jubil.ee or using the (in-progress) commenting feature. 
 
-- [[childrens media]]
-
-Feel free to explore and discover connections between ideas!
