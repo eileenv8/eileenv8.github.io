@@ -1,8 +1,8 @@
 ---
 title: Welcome to Vault EMVJ
+description: Eileen Margaret Vert Jubilee on the WorldWideWeb
 ---
-
-# My Digital Garden
+## My Digital Garden
 
 This is a landing page for Eileen's notes, essays, and other tidbits from her personal notebook. 
 
